@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "routes": [
-    { "src": "/api/create-pix", "dest": "/api/create-pix.js" },
-    { "src": "/api/check-pix", "dest": "/api/check-pix.js" },
-    { "src": "/(.*)", "dest": "/$1" }
-  ]
-}
